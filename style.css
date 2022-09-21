@@ -1,0 +1,19 @@
+.facebook-button {
+    background-color: rgb(24, 119, 242);
+    margin-left: 50px;
+    color: white;
+    border-color: white;
+    border-style: none;
+    border-radius: 8px;
+    cursor: pointer;
+    height: 50px;
+    width: 120px;
+}
+
+.facebook-button:hover {
+    background-color: aqua;
+}
+
+.facebook-button:active {
+    background-color: black;
+}
